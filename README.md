@@ -1,4 +1,4 @@
-# Oyinade Danica Akinrujomu - Data Analyst
+# Oyinade Davita Akinrujomu - Data Analyst
 
 Welcome to my GitHub! I'm Oyinade Danica Akinrujomu, a passionate Data Analyst who excels in storytelling with data. I specialize in transforming raw data into meaningful insights that enable businesses to make informed, data-driven decisions.
 
